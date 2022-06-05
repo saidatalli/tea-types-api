@@ -1,0 +1,19 @@
+{
+  "name": "tea-types-api",
+  "version": "1.0.0",
+  "description": "Api for tea types from around the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tea",
+    "tea types",
+    "tea api"
+  ],
+  "author": "Saidat Alli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
